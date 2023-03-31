@@ -1,6 +1,6 @@
 Name:		texlive-messagepassing
 Version:	63116
-Release:	1
+Release:	2
 Summary:	Draw diagrams to represent communication protocols
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/messagepassing
