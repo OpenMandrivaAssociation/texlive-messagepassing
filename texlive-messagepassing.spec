@@ -3,7 +3,7 @@ Version:	69123
 Release:	1
 Summary:	Draw diagrams to represent communication protocols
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/messagepassing
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/messagepassing
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/messagepassing.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/messagepassing.doc.r%{version}.tar.xz
